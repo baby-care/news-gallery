@@ -1,0 +1,9 @@
+*.pyc
+*.idea
+
+*.log
+~*
+*.log.*
+__*cache*
+*sqlite*
+
